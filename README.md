@@ -1,4 +1,4 @@
-# 2048-game-deployment
+
 # 2048 Game Deployment Script
 
 This repository contains an automated deployment script for the popular 2048 game, leveraging Docker for containerization.
